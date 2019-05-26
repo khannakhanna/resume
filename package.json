@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/khannakhanna/resume/issues"
   },
-  "homepage": "https://github.com/khannakhanna/resume#readme"
+  "homepage": "https://github.com/khannakhanna/resume#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.8.2",
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "jquery.easing": "^1.4.1"
+  }
 }
